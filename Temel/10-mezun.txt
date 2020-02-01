@@ -1,0 +1,8 @@
+baysan,medipol
+yusuf,medeniyet
+halil,medeniyet
+hoca,lise
+yeni,mezun
+yeni,mezun
+yeni,mezun
+yeni,mezun
